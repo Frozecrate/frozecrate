@@ -1,2 +1,0 @@
-"""FrozeCrate - Update App Db"""
-

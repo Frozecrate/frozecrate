@@ -1,2 +1,0 @@
-"""FrozeCrate - App Card"""
-

@@ -1,2 +1,0 @@
-"""FrozeCrate - Build Installer"""
-

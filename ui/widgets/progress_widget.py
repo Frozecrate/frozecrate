@@ -1,2 +1,0 @@
-"""FrozeCrate - Progress Widget"""
-

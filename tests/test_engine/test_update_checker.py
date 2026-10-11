@@ -1,2 +1,0 @@
-"""FrozeCrate - Test Update Checker"""
-

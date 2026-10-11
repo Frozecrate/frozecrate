@@ -1,2 +1,0 @@
-"""FrozeCrate - Main Window"""
-

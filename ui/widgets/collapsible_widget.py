@@ -1,2 +1,0 @@
-"""FrozeCrate - Collapsible Widget"""
-
